@@ -1,0 +1,20 @@
+{
+  "name": "placefront",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@vueuse/motion": "^3.0.3",
+    "axios": "^1.13.2",
+    "bootstrap5": "^1.1.9",
+    "vue": "^3.5.26",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.3",
+    "@vue/compiler-sfc": "^3.0.4",
+    "vite": "^7.3.0"
+  }
+}
