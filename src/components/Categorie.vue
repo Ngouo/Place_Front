@@ -146,7 +146,7 @@ export default {
 
 <style scoped>
     .main{
-      background-image: url('./src/assets/YouTube.jpg');
+      background-image: url('/images/YouTube.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;

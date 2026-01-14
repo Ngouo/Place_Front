@@ -127,7 +127,7 @@ export default{
 
     .hero{
   min-height: 50vh;
-  background-image: url('./src/assets/ville.jpg');
+  background-image: url('/images/ville.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -146,7 +146,7 @@ export default{
 }
 
 .liste_categorie{
-  background-image: url('./src/assets/route.jpg');
+  background-image: url('/images/route.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
